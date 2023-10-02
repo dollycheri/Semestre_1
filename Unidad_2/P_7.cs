@@ -2,7 +2,7 @@
 
 namespace P_7 // Note: actual namespace depends on the project name.
 {
-    internal class Metros
+    internal class Metros a Pies
     {
         static void Main(string[] args)
         {
