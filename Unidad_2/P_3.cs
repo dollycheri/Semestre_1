@@ -1,7 +1,7 @@
 ﻿//Realizar un algoritmo que determine el promedio de 6 calificaciones
 using System;
 
-namespace P_3_
+namespace P_3
 {
     internal class Promedio
     {
