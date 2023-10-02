@@ -2,7 +2,7 @@
 
 namespace P_8 // Note: actual namespace depends on the project name.
 {
-    internal class IVA
+    internal class iva
     {
         static void Main(string[] args)
         {
