@@ -2,7 +2,7 @@
 
 namespace P_9 // Note: actual namespace depends on the project name.
 {
-    internal class Calculadora
+    internal class Calculadora_Funciones
     {
         static void Main(string[] args)
         {
