@@ -2,7 +2,7 @@
 
 namespace P_6 
 {
-    internal class Grados
+    internal class Cambiar Grados
     {
         static void Main(string[] args)
         {
