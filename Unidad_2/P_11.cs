@@ -2,7 +2,7 @@
 
 namespace P_11 // Note: actual namespace depends on the project name.
 {
-    internal class Edad
+    internal class Mayor de Edad
     {
         static void Main(string[] args)
         {
