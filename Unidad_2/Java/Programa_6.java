@@ -12,7 +12,7 @@ public class Programa_6 {
 
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int c,f;
+        int f,c;
         System.out.print("Introduce el valor de los grados: ");
         c = sc.nextInt ();
         f = (c * 9/5) + 32;
