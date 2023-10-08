@@ -14,7 +14,7 @@ public class Programa_9 {
 
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int N1,N2,s,r,d,m;
+        int s,r,d,m,N1,N2;
         System.out.print("Escribe un número:");
         N1 = sc.nextInt ();
         System.out.print("Escribe un número:");
