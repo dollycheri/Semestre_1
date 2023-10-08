@@ -22,7 +22,7 @@ public class Programa_5 {
         System.out.print("Dar el valor del lado 3: ");
         L3 = sc.nextInt ();
         p = L1 + L2 + L3;
-        System.out.println("El resultado del´perimetro es " + p);
+        System.out.println("El resultado del perimetro es " + p);
         
         System.out.print("Dar el valor de la base: ");
         b = sc.nextInt ();
