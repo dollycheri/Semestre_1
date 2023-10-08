@@ -14,7 +14,7 @@ public class Programa_10 {
 
     public static void main(String[] args) {
     Scanner sc= new Scanner(System.in);
-        int L,P,A,a;
+        int a,L,P,A;
         System.out.print("Introduce el valor de uno de los lados ");
         L = sc.nextInt ();
         P = L * 6;
@@ -22,6 +22,6 @@ public class Programa_10 {
         A = sc.nextInt ();
         a = (P * A) / 2;
         
-        System.out.print("El ´área del hexagono es: " + a);
+        System.out.print("El área del hexagono es: " + a);
     }
 }
