@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace P1_U3 // Note: actual namespace depends on the project name.
+namespace Programa1_U3 // Note: actual namespace depends on the project name.
 {
     internal class Edad
     {
