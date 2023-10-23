@@ -2,14 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.programa_3;
+package com.mycompany.Programa3_U3;
 
 /**
  *
  * @author LaboratorioLTI2
  */
 import java.util.Scanner;
-public class Programa_3 {
+public class Programa3_U3 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
