@@ -2,7 +2,7 @@
 
 namespace Proyecto5u3
 {
-    internal class Proyecto5u3
+    internal class Programa5_U3
     {
 
         static void main(String[] args)
