@@ -1,8 +1,8 @@
 
-package com.mycompany.programa7;
+package com.mycompany.Programa7_U3;
 import java.util.Scanner;
 
-public class programa7 {
+public class Programa7_U3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese la temperatura actual en grados Celsius: ");
