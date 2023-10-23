@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class Programa8_U3
 {
     static void Main()
     {
