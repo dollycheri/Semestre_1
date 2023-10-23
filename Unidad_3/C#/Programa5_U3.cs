@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Proyecto5u3
+namespace Programa5_U3
 {
     internal class Programa5_U3
     {
