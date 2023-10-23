@@ -1,8 +1,8 @@
 
-package com.mycompany.proyecto5u3;
+package com.mycompany.Programa5_U3;
 import java.util.Scanner;
 
-public class Proyecto5u3 {
+public class Programa5_U3 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
