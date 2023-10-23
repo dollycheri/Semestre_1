@@ -2,7 +2,7 @@
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
-    internal class Program
+    internal class Programa2_U3
     {
         static void Main(string[] args)
         {
