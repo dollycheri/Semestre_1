@@ -1,8 +1,8 @@
 
-package com.mycompany.programa6;
+package com.mycompany.Programa6_U3;
 import java.util.Scanner;
 
-public class programa6 {
+public class Programa6_U3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un número entero: ");
