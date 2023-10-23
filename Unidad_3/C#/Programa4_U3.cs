@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace Programa4_U3 // Note: actual namespace depends on the project name.
 {
-    internal class Mes
+    internal class Programa4_U3
     {
         static void Main(string[] args)
         {
