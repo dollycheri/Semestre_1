@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.p4_u3;
+package com.mycompany.Programa4_U3;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author LaboratorioLTI2
  */
-public class P4_U3 {
+public class Programa4_U3 {
 
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
