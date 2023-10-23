@@ -1,8 +1,8 @@
 
-package com.mycompany.programa8;
+package com.mycompany.Programa8_U3;
 import java.util.Scanner;
 
-public class programa8 {
+public class Programa8_U3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese el primer número: ");
