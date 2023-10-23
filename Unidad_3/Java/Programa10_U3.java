@@ -1,8 +1,8 @@
 
-package com.mycompany.programa10;
+package com.mycompany.Programa10_U3;
 import java.util.Scanner;
 
-public class programa10 {
+public class Programa10_U3 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese las horas trabajadas: ");
         double horasTrabajadas = scanner.nextDouble();
