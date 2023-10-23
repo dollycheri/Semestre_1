@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace Programa2_U3 // Note: actual namespace depends on the project name.
 {
     internal class Programa2_U3
     {
