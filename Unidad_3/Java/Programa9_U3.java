@@ -1,8 +1,8 @@
 
-package com.mycompany.programa9;
+package com.mycompany.Programa9_U3;
 import java.util.Scanner;
 
-public class programa9 {
+public class Programa9_U3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese la hora de entrada: ");
