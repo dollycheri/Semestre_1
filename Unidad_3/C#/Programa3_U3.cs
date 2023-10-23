@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Programa_3;// Note: actual namespace depends on the project name.
+namespace Programa3_U3;// Note: actual namespace depends on the project name.
 
-    internal class Program
+    internal class Programa3_U3
     {       
             public static void Main(String[] args)
             {
