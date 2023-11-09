@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Ingrese el total de temperaturas a procesar: ");
+        Console.Write("Ingrese el total de temperaturas que se van a procesar");
         int totalT = int.Parse(Console.ReadLine());
 
         double[] tCelsius = new double[totalT];
